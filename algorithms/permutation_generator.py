@@ -1,3 +1,5 @@
+# Sep 2020
+
 def binary_generator(M:int, prefix=""):
 	"""
 	Recursive sequence generator with leading zeros in a
