@@ -1,18 +1,34 @@
 - # Algorithms:
 
   - ### Sorting:
-    - ###### [Check sorted](https://github.com/No1n/python_practice/blob/main/algorithms/check_sorted.py)
-    - ###### [Bubble sort](https://github.com/No1n/python_practice/blob/main/algorithms/bubble_sort.py)
-    - ###### [Insertion sort](https://github.com/No1n/python_practice/blob/main/algorithms/insertion_sort.py)
-    - ###### [Selection sort](https://github.com/No1n/python_practice/blob/main/algorithms/selection_sort.py)
-    - ###### [Counting sort](https://github.com/No1n/python_practice/blob/main/algorithms/counting_sort.py)
-    - ###### [Merge sort](https://github.com/No1n/python_practice/blob/main/algorithms/merge_sort.py)
-    - ###### [Quicksort](https://github.com/No1n/python_practice/blob/main/algorithms/quick_sort.py)
+    - ###### [Check sorted](https://github.com/No1n/python_practice/blob/main/sorting/check_sorted.py)
+    - ###### [Bubble sort](https://github.com/No1n/python_practice/blob/main/sorting/bubble_sort.py)
+    - ###### [Insertion sort](https://github.com/No1n/python_practice/blob/main/sorting/insertion_sort.py)
+    - ###### [Selection sort](https://github.com/No1n/python_practice/blob/main/sorting/selection_sort.py)
+    - ###### [Counting sort](https://github.com/No1n/python_practice/blob/main/sorting/counting_sort.py)
+    - ###### [Merge sort](https://github.com/No1n/python_practice/blob/main/sorting/merge_sort.py)
+    - ###### [Quicksort](https://github.com/No1n/python_practice/blob/main/sorting/quick_sort.py)
  
   - ### Function minimiaing:
-    - ###### [Swannn's algorithm](https://github.com/No1n/python_practice/blob/main/algorithms/swann_algorithm.py)
-    - ###### [Uniform search](https://github.com/No1n/python_practice/blob/main/algorithms/uniform_min_search.py)
-    - ###### [Dichotomy search](https://github.com/No1n/python_practice/blob/main/algorithms/dichotomy_min_search.py)
-    - ###### [Fibonacci search]()
-    - ###### [Golden section search]()
-    - ###### [Gradient search]()
+    - ###### [Swannn's algorithm](https://github.com/No1n/python_practice/blob/main/function_minimizing/swann_algorithm.py)
+    - ###### [Uniform search](https://github.com/No1n/python_practice/blob/main/function_minimizing/uniform_min_search.py)
+    - ###### [Dichotomy search](https://github.com/No1n/python_practice/blob/main/function_minimizing/dichotomy_min_search.py)
+    - ###### [Fibonacci search](https://github.com/No1n/python_practice/blob/main/function_minimizing/fibonacci_min_search.py)
+    - ###### [Golden section search](https://github.com/No1n/python_practice/blob/main/function_minimizing/golden_section_min_search.py)
+    - ###### [Gradient search](https://github.com/No1n/python_practice/blob/main/function_minimizing/gradient_min_search.py)
+
+  - ### Recursion:
+    - ###### [Recursive square](https://github.com/No1n/python_practice/blob/main/recursion/recursive_square.py)
+    - ###### [Recursive factorial](https://github.com/No1n/python_practice/blob/main/recursion/recuresive_factorial.py)
+    - ###### [Recursive fibonacci](https://github.com/No1n/python_practice/blob/main/recursion/recuresive_fibonacci.py)
+    - ###### [Recursive exponentiation](https://github.com/No1n/python_practice/blob/main/recursion/recursive_exponentiation.py)
+    - ###### [Permutation generator](https://github.com/No1n/python_practice/blob/main/recursion/permutation_generator.py)
+    - ###### [Recursive GCD](https://github.com/No1n/python_practice/blob/main/recursion/recursive_GCD.py)
+    - ###### [Tower of hanoi](https://github.com/No1n/python_practice/blob/main/recursion/tower_of_hanoi.py)
+
+  - ### Dynamic programming:
+    - ###### [1D](https://github.com/No1n/python_practice/blob/main/dinamical_programming/1D.py)
+    - ###### [2D](https://github.com/No1n/python_practice/blob/main/dinamical_programming/2D.py)
+    - ###### [LCS and LIS](https://github.com/No1n/python_practice/blob/main/dinamical_programming/LCS_and_LIS.py)
+    - ###### [Knapsack problem](https://github.com/No1n/python_practice/blob/main/dinamical_programming/knapsack_problem.py)
+    - ###### [Levenshtein distance](https://github.com/No1n/python_practice/blob/main/dinamical_programming/levenshtein_distance.py)
