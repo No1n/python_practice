@@ -1,3 +1,5 @@
+# Sep 2020
+
 def check_sorted(A:list, ascending=True):
     """
     Check list sorting in ascending or descending order.
