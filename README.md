@@ -1,5 +1,6 @@
 - # Algorithms:
-
+  - ### Machine learning:
+    - ###### [Gym mountain car](https://github.com/No1n/python_practice/blob/main/machine_learning/reinforcement_learning/mountain%20car/mountain_car.py)
   - ### Sorting:
     - ###### [Check sorted](https://github.com/No1n/python_practice/blob/main/sorting/check_sorted.py)
     - ###### [Bubble sort](https://github.com/No1n/python_practice/blob/main/sorting/bubble_sort.py)
