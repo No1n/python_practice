@@ -8,6 +8,10 @@
 
 - ## Algorithms:
   
+  - ### Other:
+    - ###### [Brown-Robinson iterative method](https://github.com/No1n/python_practice/blob/main/other/Brown-Robinson%20iterative%20method.py)
+    - ###### [Eratosthenes sieve](https://github.com/No1n/python_practice/blob/main/other/eratosthenes_sieve.py)
+  
   - ### Sorting:
     - ###### [Check sorted](https://github.com/No1n/python_practice/blob/main/sorting/check_sorted.py)
     - ###### [Bubble sort](https://github.com/No1n/python_practice/blob/main/sorting/bubble_sort.py)
