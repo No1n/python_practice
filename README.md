@@ -4,6 +4,7 @@
 
   - ### Neural networks:
     - ###### [MNIST](https://github.com/No1n/python_practice/blob/main/machine_learning/neural_networks/MNIST.ipynb)
+    - ###### [Fashion MNIST](https://github.com/No1n/python_practice/blob/main/machine_learning/neural_networks/MNIST%20Fashion.ipynb)
 
 - ## Algorithms:
   
