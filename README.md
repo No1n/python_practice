@@ -50,3 +50,8 @@
   - ### Structures:
     - ###### [Stack](https://github.com/No1n/python_practice/blob/main/structures/stack.py)
     - ###### [Linked list](https://github.com/No1n/python_practice/blob/main/structures/linked%20list.py)
+    - ###### [Queue](https://github.com/No1n/python_practice/blob/main/structures/queue.py)
+
+  - ### Search:
+    - ###### [Binary search](https://github.com/No1n/python_practice/blob/main/search/binary_search.py)
+    - ###### [Pattern search](https://github.com/No1n/python_practice/blob/main/search/pattern_search.py)
