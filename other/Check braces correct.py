@@ -1,7 +1,7 @@
+# Sep 2020
+
 class Stack:
 	"""
-	HOW TO WRITE GOOD DOCUMENTATION FOR THIS???
-		
 	Examples:
 	>>> my_stack = Stack(1); my_stack.push(10);
 	>>> len(my_stack.alist)
