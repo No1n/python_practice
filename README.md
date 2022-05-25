@@ -11,6 +11,8 @@
   - ### Other:
     - ###### [Brown-Robinson iterative method](https://github.com/No1n/python_practice/blob/main/other/Brown-Robinson%20iterative%20method.py)
     - ###### [Eratosthenes sieve](https://github.com/No1n/python_practice/blob/main/other/eratosthenes_sieve.py)
+    - ###### [Matrix with saddle point generator](https://github.com/No1n/python_practice/blob/main/other/Matrix%20with%20saddle%20point%20generator.py)
+    - ###### [Check braces correct](https://github.com/No1n/python_practice/blob/main/other/Stack%20and%20check%20braces%20correct.py)
   
   - ### Sorting:
     - ###### [Check sorted](https://github.com/No1n/python_practice/blob/main/sorting/check_sorted.py)
@@ -44,3 +46,7 @@
     - ###### [LCS and LIS](https://github.com/No1n/python_practice/blob/main/dinamical_programming/LCS_and_LIS.py)
     - ###### [Knapsack problem](https://github.com/No1n/python_practice/blob/main/dinamical_programming/knapsack_problem.py)
     - ###### [Levenshtein distance](https://github.com/No1n/python_practice/blob/main/dinamical_programming/levenshtein_distance.py)
+
+  - ### Structures:
+    - ###### [Stack](https://github.com/No1n/python_practice/blob/main/other/Stack%20and%20check%20braces%20correct.py)
+    - 
