@@ -286,7 +286,9 @@ class Agent:
  
 def draw(agents, the_map):
 	factor = 30
-	image = Image.new('RGB', (y_len*factor + 300, x_len*factor + 350), color = 'gray')
+	# Code to show graph in animation
+	#image = Image.new('RGB', (y_len*factor + 300, x_len*factor + 350), color = 'gray')
+	image = Image.new('RGB', (y_len*factor, x_len*factor), color = 'gray')
 	ima = ImageDraw.Draw(image)
 	for i in range(0, x_len):
 		for j in range(0, y_len):
@@ -306,18 +308,21 @@ def draw(agents, the_map):
 		ima.line([(0, i*factor), (y_len*factor, i*factor)])
 	for i in range(0, y_len):
 		ima.line([(i*factor, 0), (i*factor, x_len*factor)])
+
 	for i in agents[0].graph.dict.values():
 		if int(i["values"]["y"]) != 0:
 			ima.text((i["values"]["y"]*factor + 3, i["values"]["x"]*factor + 3), str(i["values"]["name"]))
+
 	for i in agents:
 		ima.rectangle((
 		(i.y*factor, i.x*factor), ((i.y+1)*factor, (i.x+1)*factor))
 		, fill="red"
 		)
 		ima.text((i.y*factor + 3, i.x*factor + 3), str(i.name))
-	ima.text((y_len*factor + 10, 0), 
-			 agents[0].graph.printing()
-			 )
+	# Code to show graph in animation
+	# ima.text((y_len*factor + 10, 0), 
+	# 		 agents[0].graph.printing()
+	# 		 )
 	return(image)
 
 def plot_charts():
@@ -388,9 +393,11 @@ def plot_animation(agents_num):
 			break;
 		image = draw(agents, the_map)
 		im = plt.imshow(image, animated=True)
+		plt.tight_layout()
+		plt.axis('off')
 		ima.append([im])
 	Animation = animation.ArtistAnimation(fig, ima, interval=300, blit=True, repeat_delay=1000)
-	Animation.save('animation.gif', writer='imagemagick', fps=60)
+	Animation.save('animation without graph.gif', writer='imagemagick', fps=60)
 	plt.show()
 
 queue = queue()
