@@ -1,5 +1,6 @@
+# Sep 2020
+
 import numpy as np
-import math
 
 matrix = np.array([
     [0, 3, 1, 8, 1, 5, 3, 2],
