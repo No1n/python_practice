@@ -9,6 +9,8 @@
 - ## Algorithms:
   
   - ### Other:
+    - ###### [Maze exploration](https://github.com/No1n/python_practice/blob/main/other/maze%20exploration/maze%20exploration.py)
+    ![til](https://github.com/No1n/python_practice/blob/main/other/maze%20exploration/animation%20without%20graph.gif)
     - ###### [Brown-Robinson iterative method](https://github.com/No1n/python_practice/blob/main/other/Brown-Robinson%20iterative%20method.py)
     - ###### [Eratosthenes sieve](https://github.com/No1n/python_practice/blob/main/other/eratosthenes_sieve.py)
     - ###### [Matrix with saddle point generator](https://github.com/No1n/python_practice/blob/main/other/Matrix%20with%20saddle%20point%20generator.py)
