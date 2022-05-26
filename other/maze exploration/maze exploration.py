@@ -374,7 +374,10 @@ def plot_charts():
 	plt.close()
 	
 def plot_animation(agents_num):
-	fig = plt.figure()
+	dpi = 100
+	im_width, im_height = 600, 240
+	figsize = im_width / float(dpi), im_height / float(dpi)
+	fig = plt.figure(figsize=figsize)
 	ima = []	
 	done = 0
 	agents = []
