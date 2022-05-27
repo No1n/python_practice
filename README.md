@@ -20,7 +20,7 @@
     - ###### [Eratosthenes sieve](https://github.com/No1n/python_practice/blob/main/other/eratosthenes_sieve.py)
     - ###### [Matrix with saddle point generator](https://github.com/No1n/python_practice/blob/main/other/Matrix%20with%20saddle%20point%20generator.py)
     - ###### [Check braces correct](https://github.com/No1n/python_practice/blob/main/other/Check%20braces%20correct.py)
-    - ###### [Simple-simple parser](https://github.com/No1n/python_practice/blob/main/other/simple%20parser/simple%20parser.py)
+    - ###### [Simple parser](https://github.com/No1n/python_practice/blob/main/other/simple%20parser/simple%20parser.py)
   
   - ### Sorting:
     - ###### [Check sorted](https://github.com/No1n/python_practice/blob/main/sorting/check_sorted.py)
