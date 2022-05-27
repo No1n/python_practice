@@ -5,6 +5,7 @@
   - ### Neural networks:
     - ###### [MNIST](https://github.com/No1n/python_practice/blob/main/machine_learning/neural_networks/MNIST.ipynb)
     - ###### [Fashion MNIST](https://github.com/No1n/python_practice/blob/main/machine_learning/neural_networks/MNIST%20Fashion.ipynb)
+    - ###### [Simple RNN text generation](https://github.com/No1n/python_practice/blob/main/machine_learning/neural_networks/RNN%20text%20generation%20example.ipynb)
 
 - ## Algorithms:
   
