@@ -3,6 +3,7 @@
     - ###### [Gym mountain car](https://github.com/No1n/python_practice/blob/main/machine_learning/reinforcement_learning/mountain%20car/mountain_car.py)
 
   - ### Neural networks:
+    - ###### [Keras CNN timeseries classification from scratch](https://github.com/No1n/python_practice/blob/main/machine_learning/keras%20timeseries%20classification%20from%20scratch/Keras%20timeseries%20classification.ipynb)
     - ###### [MNIST](https://github.com/No1n/python_practice/blob/main/machine_learning/neural_networks/MNIST.ipynb)
     - ###### [Fashion MNIST](https://github.com/No1n/python_practice/blob/main/machine_learning/neural_networks/MNIST%20Fashion.ipynb)
     - ###### [Simple RNN text generation](https://github.com/No1n/python_practice/blob/main/machine_learning/neural_networks/RNN%20text%20generation%20example.ipynb)
