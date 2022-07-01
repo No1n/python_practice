@@ -1,21 +1,21 @@
 - ## Machine learning
   - ### Reinforcement learning:
-    - ###### [Gym mountain car June 2021](https://github.com/No1n/python_practice/blob/main/machine_learning/reinforcement_learning/mountain%20car/mountain_car.py)
+    - ###### [Gym mountain car (June 2021)](https://github.com/No1n/python_practice/blob/main/machine_learning/reinforcement_learning/mountain%20car/mountain_car.py)
 
   - ### Neural networks:
-    - ###### [Keras CNN timeseries classification from scratch June 2022](https://github.com/No1n/python_practice/blob/main/machine_learning/keras%20timeseries%20classification%20from%20scratch/Keras%20timeseries%20classification.ipynb)
-    - ###### [MNIST](https://github.com/No1n/python_practice/blob/main/machine_learning/neural_networks/MNIST.ipynb)
-    - ###### [Fashion MNIST](https://github.com/No1n/python_practice/blob/main/machine_learning/neural_networks/MNIST%20Fashion.ipynb)
-    - ###### [Simple RNN text generation](https://github.com/No1n/python_practice/blob/main/machine_learning/neural_networks/RNN%20text%20generation%20example.ipynb)
-    - ###### [Simple U-Net segmentation](https://github.com/No1n/python_practice/blob/main/machine_learning/neural_networks/unet%20two%20bricks%20segmentation/unet%20two%20bricks%20segmentation.ipynb)
+    - ###### [Keras CNN timeseries classification from scratch (June 2022)](https://github.com/No1n/python_practice/blob/main/machine_learning/keras%20timeseries%20classification%20from%20scratch/Keras%20timeseries%20classification.ipynb)
+    - ###### [MNIST (Sep 2020)](https://github.com/No1n/python_practice/blob/main/machine_learning/neural_networks/MNIST.ipynb)
+    - ###### [Fashion MNIST (Sep 2020)](https://github.com/No1n/python_practice/blob/main/machine_learning/neural_networks/MNIST%20Fashion.ipynb)
+    - ###### [Simple RNN text generation (Sep 2020)](https://github.com/No1n/python_practice/blob/main/machine_learning/neural_networks/RNN%20text%20generation%20example.ipynb)
+    - ###### [Simple U-Net segmentation (Feb 2020)](https://github.com/No1n/python_practice/blob/main/machine_learning/neural_networks/unet%20two%20bricks%20segmentation/unet%20two%20bricks%20segmentation.ipynb)
 
   - ### Something:
-    - ###### [Simple K-means image segmentation](https://github.com/No1n/python_practice/blob/main/machine_learning/kmeans%20image%20clustering%20so%20bad.ipynb)
+    - ###### [Simple K-means image segmentation (Feb 2020)](https://github.com/No1n/python_practice/blob/main/machine_learning/kmeans%20image%20clustering%20so%20bad.ipynb)
 
 - ## Algorithms:
   
   - ### Other:
-    - ###### [Maze exploration](https://github.com/No1n/python_practice/blob/main/other/maze%20exploration/maze%20exploration.py)
+    - ###### [Maze exploration (Sep 2020)](https://github.com/No1n/python_practice/blob/main/other/maze%20exploration/maze%20exploration.py)
     ![til](https://github.com/No1n/python_practice/blob/main/other/maze%20exploration/animation%20without%20graph.gif)
     - ###### [Brown-Robinson iterative method](https://github.com/No1n/python_practice/blob/main/other/Brown-Robinson%20iterative%20method.py)
     - ###### [Eratosthenes sieve](https://github.com/No1n/python_practice/blob/main/other/eratosthenes_sieve.py)
